@@ -17,8 +17,6 @@ Connect with Me and Let's Be Friend! 🤝
 
 ## About Me
 
-<img align="right" src="https://media.giphy.com/media/Jjo6WPW26zDdS/giphy.gif?cid=ecf05e47558sho3frq8h1orjy7kjqmcynkreqdja3kggrl6b&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Foto Aing" width="300" />
-
 ```yaml
 Name      : Kaizan Sultan
 Location  : Indonesia
@@ -31,8 +29,6 @@ Passion   : coding anything
 Hobby     : learning everything
 ```
 
-<br />
-
 - 👋 Call me **Kaz** or **Kaizan**
 - ⚡ Performance Nerd
 - 🦀 Proud **Rust**acean
@@ -40,6 +36,26 @@ Hobby     : learning everything
 - 🎯 Love learning any _old_ or _new_ tech and programming language
 
 ## My GitHub Stats
+
+<!-- Streak Stats -->
+<div align="center">
+  <a href="https://github.com/kaizansultan">
+    <img
+       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=kaizansultan&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
+       alt="My GitHub streak stats"
+     />
+  </a>
+</div>
+
+<!-- WakaTime stats (Dark mode) -->
+<div align="center">
+  <a href="https://github.com/kaizansultan">
+    <img
+        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=kaizansultan&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29"
+        alt="My Wakatime stats"
+      />
+  </a>
+</div>
 
 | ![Kaizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaizanSultan&show_icons=true&theme=tokyonight&hide_rank=true&hide=stars) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaizansultan&layout=compact&theme=tokyonight) |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
