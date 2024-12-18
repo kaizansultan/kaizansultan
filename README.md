@@ -9,25 +9,17 @@ Looking for Friends with the same Hobby 👀
 
 ## About Me
 
-<div style="display: flex; align-items: flex-start;">
-
-<img align="left" src="https://res.cloudinary.com/dbwkybtve/image/upload/v1734500985/97e3ddf8e181fe7b45bc80be76033c502_izv1dl.jpg" alt="Foto Aing" width="300" />
+<img align="right" src="https://media.giphy.com/media/Jjo6WPW26zDdS/giphy.gif?cid=ecf05e47558sho3frq8h1orjy7kjqmcynkreqdja3kggrl6b&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Foto Aing" width="300" />
 
 ```
 Name      : Kaizan Sultan
-Area      : Indonesia
+Location  : Indonesia
 OS        : Kubuntu x86_64
 DE        : KDE Wayland
-
-Role      : - Fullstack Dev
-            - UI/UX Designer
-            - Game Developer
-Speak     : - English
-            - Bahasa Indonesia
-            - Portuguese
+Device    : Lenovo ThinkPad T440s
+Discord   : kaizansultan
+Hobby     : Learning everything
 ```
-
-</div>
 
 <br />
 
@@ -144,3 +136,9 @@ Backend development is where my engineering mindset shines. Leveraging technolog
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 In the realm of DevOps, I excel in ensuring that software delivery pipelines are smooth and reliable. With hands-on expertise in tools like Docker, Kubernetes, and AWS, I deploy, scale, and maintain applications efficiently. My approach prioritizes automation, performance optimization, and seamless collaboration between development and operations.
+
+</div>
+
+## Contact Me
+
+[kaizansultan@proton.me](mailto:kaizansultan@proton.me)
