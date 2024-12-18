@@ -5,9 +5,13 @@
 A Passionate Programming and Tech Enthusiast  
 Connect with Me and Let's Be Friend! 🤝
 
-![Indonesia](https://img.shields.io/badge/Location-Indonesia-%23F42A28?style=for-the-badge&logo=flag-icon-css&logoColor=white)
-![Role](https://img.shields.io/badge/Role-Fullstack_Developer-%232c3e50?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open_Source-Contributor-%23ff4d00?style=for-the-badge&logo=github&logoColor=white)
+![Indonesia](https://img.shields.io/badge/Indonesia-%23F42A28?style=for-the-badge&logo=flag-icon-css&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-Contributor-%23F42A28?style=for-the-badge&logo=github&logoColor=white)
+
+![Fullstack Developer](https://img.shields.io/badge/Fullstack_Developer-%234E4E4E?style=for-the-badge&logo=node.js&logoColor=white)
+![UI/UX Designer](https://img.shields.io/badge/UI%2FUX_Designer-%23333B4C?style=for-the-badge&logo=figma&logoColor=white)  
+![Game Developer](https://img.shields.io/badge/Game_Developer-%231A2A40?style=for-the-badge&logo=unity&logoColor=white)
+![Cyber Security](https://img.shields.io/badge/Cyber_Security-%23333B4C?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
 
