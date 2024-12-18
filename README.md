@@ -2,8 +2,12 @@
 
 # Hello, I'm Kaizan Sultan
 
-Programming and Tech Enthusiast from Indonesia 🇮🇩  
-Looking for Friends with the same Hobby 👀
+A Passionate Programming and Tech Enthusiast  
+Connect with Me and Let's Be Friend! 🤝
+
+![Indonesia](https://img.shields.io/badge/Location-Indonesia-%23F42A28?style=for-the-badge&logo=flag-icon-css&logoColor=white)
+![Role](https://img.shields.io/badge/Role-Fullstack_Developer-%232c3e50?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open_Source-Contributor-%23ff4d00?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -11,34 +15,34 @@ Looking for Friends with the same Hobby 👀
 
 <img align="right" src="https://media.giphy.com/media/Jjo6WPW26zDdS/giphy.gif?cid=ecf05e47558sho3frq8h1orjy7kjqmcynkreqdja3kggrl6b&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Foto Aing" width="300" />
 
-```
+```yaml
 Name      : Kaizan Sultan
 Location  : Indonesia
 OS        : Kubuntu x86_64
 DE        : KDE Wayland
-Device    : Lenovo ThinkPad T440s
+Terminal  : Konsole with Fish 🐟
 Discord   : kaizansultan
-Hobby     : Learning everything
+-----------------------------------
+Passion   : coding anything
+Hobby     : learning everything
 ```
 
 <br />
 
-- 👋 Call me **Kaz** or **Kaizan**, and I'm thrilled to connect with tech enthusiasts worldwide.
-- 🕵️‍♂️ Exploring the coding universe since 2017, crafting apps, games, and UI/UX designs.
-- 🎯 Love learning any _old_ or _new_ tech and programming language.
+- 👋 Call me **Kaz** or **Kaizan**
 - ⚡ Performance Nerd
 - 🦀 Proud **Rust**acean
+- 🕵️‍♂️ Exploring the coding and design universe since 2017
+- 🎯 Love learning any _old_ or _new_ tech and programming language
 
 ## My GitHub Stats
 
-| ![Kaizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaizanSultan&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaizanSultan&layout=compact&theme=tokyonight) |
-| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| ![Kaizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaizanSultan&show_icons=true&theme=tokyonight&hide_rank=true&hide=stars) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaizansultan&layout=compact&theme=tokyonight) |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 
 ## My Tech Stacks
 
-I really love learning tech related stuff in deep since 2017. So here tech stack that I can use.
-
----
+Since 2017, I have immersed myself in exploring and mastering various technologies. Here's a showcase of the tools and platforms I work with:
 
 <div align="center">
 
@@ -49,10 +53,6 @@ I really love learning tech related stuff in deep since 2017. So here tech stack
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-I am well-versed in a variety of operating systems, but Kubuntu stands as my daily driver due to its unparalleled stability, blazing speed, and high level of customization.
-
----
 
 ### Programming Langs
 
@@ -67,20 +67,11 @@ I am well-versed in a variety of operating systems, but Kubuntu stands as my dai
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-With a passion for writing efficient and maintainable code, I have mastered multiple programming languages ranging from the versatility of JavaScript and TypeScript to the raw power of Rust and Go.  
-This diverse skill set allows me to tackle a wide spectrum of challenges, from lightweight scripts to robust, high-performance applications.
-
----
-
 ### Game Dev
 
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
-
-Creating immersive gaming experiences has always been a personal passion. Utilizing cutting-edge tools like Godot and Unity, I bring ideas to life with optimized performance and captivating design.
-
----
 
 ### Frontend
 
@@ -95,10 +86,6 @@ Creating immersive gaming experiences has always been a personal passion. Utiliz
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-I specialize in crafting seamless and intuitive user interfaces using modern frameworks such as Svelte, React, and Astro. By combining performance-focused tools like Vite and TailwindCSS, I deliver frontend solutions that are not only visually stunning but also highly optimized for the best user experience.
-
----
 
 ### Backend
 
@@ -119,10 +106,6 @@ I specialize in crafting seamless and intuitive user interfaces using modern fra
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-Backend development is where my engineering mindset shines. Leveraging technologies like Go, Rust, and Express.js, I build scalable and secure systems designed to handle complex requirements. From database management to API development, my backend solutions are built for reliability and peak performance.
-
----
-
 ### DevOps
 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -134,8 +117,6 @@ Backend development is where my engineering mindset shines. Leveraging technolog
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-In the realm of DevOps, I excel in ensuring that software delivery pipelines are smooth and reliable. With hands-on expertise in tools like Docker, Kubernetes, and AWS, I deploy, scale, and maintain applications efficiently. My approach prioritizes automation, performance optimization, and seamless collaboration between development and operations.
 
 </div>
 
