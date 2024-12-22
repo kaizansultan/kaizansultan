@@ -5,8 +5,8 @@
 A Passionate Programming and Tech Enthusiast  
 Connect with Me and Let's Be Friend! 🤝
 
-![Indonesia](https://img.shields.io/badge/Indonesia-%23F42A28?style=for-the-badge&logo=flag-icon-css&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open_Source-Contributor-%23F42A28?style=for-the-badge&logo=github&logoColor=white)
+![Indonesia](https://img.shields.io/badge/Indonesia-%23F42A28?style=flat&logo=flag-icon-css&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-Contributor-%23009639?style=flat&logo=github&logoColor=white)
 
 ![Fullstack Developer](https://img.shields.io/badge/Fullstack_Developer-%234E4E4E?style=for-the-badge&logo=node.js&logoColor=white)
 ![UI/UX Designer](https://img.shields.io/badge/UI%2FUX_Designer-%23333B4C?style=for-the-badge&logo=figma&logoColor=white)  
@@ -57,9 +57,6 @@ Hobby     : learning everything
   </a>
 </div>
 
-| ![Kaizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaizanSultan&show_icons=true&theme=tokyonight&hide_rank=true&hide=stars) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaizansultan&layout=compact&theme=tokyonight) |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-
 ## My Tech Stacks
 
 Since 2017, I have immersed myself in exploring and mastering various technologies. Here's a showcase of the tools and platforms I work with:
@@ -70,21 +67,18 @@ Since 2017, I have immersed myself in exploring and mastering various technologi
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Programming Langs
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)  
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 [![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](<https://en.wikipedia.org/wiki/C_(programming_language)>)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![C#](https://img.shields.io/badge/C%23-%235C2D91.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Game Dev
@@ -129,12 +123,12 @@ Since 2017, I have immersed myself in exploring and mastering various technologi
 ### DevOps
 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -143,3 +137,7 @@ Since 2017, I have immersed myself in exploring and mastering various technologi
 ## Contact Me
 
 [kaizansultan@proton.me](mailto:kaizansultan@proton.me)
+
+<br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=kaizansultan&color=blue&style=flat)
