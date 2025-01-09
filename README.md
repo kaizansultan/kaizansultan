@@ -10,7 +10,7 @@ Connect with Me and Let's Be Friend! 🤝
 
 ![Fullstack Developer](https://img.shields.io/badge/Fullstack_Developer-%234E4E4E?style=for-the-badge&logo=node.js&logoColor=white)
 ![UI/UX Designer](https://img.shields.io/badge/UI%2FUX_Designer-%23333B4C?style=for-the-badge&logo=figma&logoColor=white)  
-![Game Developer](https://img.shields.io/badge/Game_Developer-%231A2A40?style=for-the-badge&logo=unity&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%231A2A40?style=for-the-badge&logo=ArchLinux&logoColor=white)
 ![Cyber Security](https://img.shields.io/badge/Cyber_Security-%23333B4C?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
@@ -20,22 +20,23 @@ Connect with Me and Let's Be Friend! 🤝
 ```yaml
 Name      : Kaizan Sultan
 Location  : Indonesia
-OS        : Kubuntu x86_64
-DE        : KDE Wayland
-Terminal  : Konsole with Fish 🐟
+OS        : Arch Linux x86_64
+DE        : Hyprland Wayland
+Terminal  : Kitty + Tmux Fish 🐟
+Editor    : Neovim
+KB_Layout : Dvorak
 Discord   : kaizansultan
 -----------------------------------
 Passion   : coding anything
 Hobby     : learning everything
 ```
 
-- 👋 Call me **Kaz** or **Kaizan**
-- ⚡ Performance Nerd
-- 🦀 Proud **Rust**acean
-- 🕵️‍♂️ Exploring the coding and design universe since 2017
-- 🎯 Love learning any _old_ or _new_ tech and programming language
+-   👋 Call me **Kaz** or **Kaizan**
+-   ⚡ Performance Nerd
+-   🕵️‍♂️ Exploring the coding and design universe since 2017
+-   🎯 Love learning anything about programming, computer, and tech.
 
-## My GitHub Stats
+## My Stats
 
 <!-- Streak Stats -->
 <div align="center">
