@@ -21,7 +21,7 @@ Connect with Me and Let's Be Friend! 🤝
 Name      : Kaizan Sultan
 Location  : Indonesia
 OS        : Arch Linux x86_64
-DE        : Hyprland Wayland
+WM        : Hyprland Wayland
 Terminal  : Kitty + Tmux Fish 🐟
 Editor    : Neovim
 KB_Layout : Dvorak
@@ -34,7 +34,7 @@ Hobby     : learning everything
 -   👋 Call me **Kaz** or **Kaizan**
 -   ⚡ Performance Nerd
 -   🕵️‍♂️ Exploring the coding and design universe since 2017
--   🎯 Love learning anything about programming, computer, and tech.
+-   🎯 Love learning anything about programming, computer, and literally anything
 
 ## My Stats
 
