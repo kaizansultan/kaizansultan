@@ -4,7 +4,7 @@
 
 A Passionate Programmer and Tech Enthusiast
 
-![Indonesia](https://img.shields.io/badge/Location-Indonesia-%23F42A28?style=flat&logo=flag-icon-css&logoColor=white)
+![Indonesia](https://img.shields.io/badge/Location-Indonesia-%23D90007?style=flat&logo=flag-icon-css&logoColor=white)
 ![Open Source](https://img.shields.io/badge/OSS-Contributor-025E8C?style=flat&logo=github&logoColor=white)  
 ![Fullstack Developer](https://img.shields.io/badge/Fullstack-Developer-%23333B4C?style=for-the-badge&logo=neovim&logoColor=white)
 ![UI/UX Designer](https://img.shields.io/badge/UI%2FUX-Designer-%23333B4C?style=for-the-badge&logo=figma&logoColor=white)  
@@ -14,7 +14,7 @@ A Passionate Programmer and Tech Enthusiast
 
 Connect with Me and Let's Be Friend! 🤝
 
-<a href="https://linkt.ree/kaizansultan" target="blank">
+<a href="https://linktr.ee/kaizansultan" target="blank">
     <img src="https://img.shields.io/badge/LinkTree-%23181818?logo=linktree&style=for-the-badge"/>
 </a>
 <a href="https://instagram.com/kaizansultan" target="blank">
