@@ -2,17 +2,30 @@
 
 # Hello, I'm Kaizan Sultan
 
-A Passionate Programming and Tech Enthusiast  
+A Passionate Programmer and Tech Enthusiast
+
+![Indonesia](https://img.shields.io/badge/Location-Indonesia-%23F42A28?style=flat&logo=flag-icon-css&logoColor=white)
+![Open Source](https://img.shields.io/badge/OSS-Contributor-025E8C?style=flat&logo=github&logoColor=white)  
+![Fullstack Developer](https://img.shields.io/badge/Fullstack-Developer-%23333B4C?style=for-the-badge&logo=neovim&logoColor=white)
+![UI/UX Designer](https://img.shields.io/badge/UI%2FUX-Designer-%23333B4C?style=for-the-badge&logo=figma&logoColor=white)  
+![Software Engineer](https://img.shields.io/badge/Software-Engineer-%23333B4C?style=for-the-badge&logo=gtk&logoColor=white)
+![Cyber Security](https://img.shields.io/badge/Cyber-Security-%23333B4C?style=for-the-badge&logo=caddy&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-%231A2A40?style=for-the-badge&logo=ArchLinux&logoColor=white)
+
 Connect with Me and Let's Be Friend! 🤝
 
-![Indonesia](https://img.shields.io/badge/Indonesia-%23F42A28?style=flat&logo=flag-icon-css&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open_Source-Contributor-%23009639?style=flat&logo=github&logoColor=white)
-
-![Fullstack Developer](https://img.shields.io/badge/Fullstack_Developer-%234E4E4E?style=for-the-badge&logo=neovim&logoColor=white)
-![UI/UX Designer](https://img.shields.io/badge/UI%2FUX_Designer-%23333B4C?style=for-the-badge&logo=figma&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-%231A2A40?style=for-the-badge&logo=ArchLinux&logoColor=white)
-![Cyber Security](https://img.shields.io/badge/Cyber_Security-%23333B4C?style=for-the-badge&logo=caddy&logoColor=white)
-![Cyber Security](https://img.shields.io/badge/System_Programming-%326533B?style=for-the-badge&logo=linux&logoColor=white)
+<a href="https://linkt.ree/kaizansultan" target="blank">
+    <img src="https://img.shields.io/badge/LinkTree-%23181818?logo=linktree&style=for-the-badge"/>
+</a>
+<a href="https://instagram.com/kaizansultan" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-%23181818?logo=instagram&style=for-the-badge"/>
+</a>
+<a href="https://tiktok.com/@kaizansultan" target="blank">
+    <img src="https://img.shields.io/badge/TikTok-%23181818?logo=tiktok&style=for-the-badge"/>
+</a>
+<a href="https://x.com/kaizansultan" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-%23181818?logo=X&style=for-the-badge"/>
+</a>
 
 </div>
 
@@ -26,15 +39,15 @@ WM        : Hyprland Wayland
 Terminal  : Kitty + Fish 🐟
 Editor    : Neovim
 KB_Layout : Dvorak
-Discord   : kaizansultan
 -----------------------------------
-Passion   : coding anything
+Passion   : c}oding anything
 Hobby     : learning everything
 ```
 
 -   👋 Call me **Kaz** or **Kaizan**
+-   🧡 Programming Lover
 -   ⚡ Performance Nerd
--   🕵️ Exploring the computer, web, software and design universe since 2017
+-   🎨 UI/UX Perfectionist Artist
 -   🐈️ My old GitHub account: [@zydanalwy](https://github.com/zydanalwy)
 
 ## My Stats
@@ -53,7 +66,7 @@ Hobby     : learning everything
 <div align="center">
   <a href="https://github.com/kaizansultan">
     <img
-        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=kaizansultan&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29"
+        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=kaizansultan&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Jan%201%202025%29"
         alt="My Wakatime stats"
       />
   </a>
