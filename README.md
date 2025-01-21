@@ -4,13 +4,10 @@
 
 A Passionate Programmer and Tech Enthusiast
 
-![Indonesia](https://img.shields.io/badge/Location-Indonesia-%23D90007?style=flat&logo=flag-icon-css&logoColor=white)
-![Open Source](https://img.shields.io/badge/OSS-Contributor-025E8C?style=flat&logo=github&logoColor=white)  
 ![Fullstack Developer](https://img.shields.io/badge/Fullstack-Developer-%23333B4C?style=for-the-badge&logo=neovim&logoColor=white)
 ![UI/UX Designer](https://img.shields.io/badge/UI%2FUX-Designer-%23333B4C?style=for-the-badge&logo=figma&logoColor=white)  
 ![Software Engineer](https://img.shields.io/badge/Software-Engineer-%23333B4C?style=for-the-badge&logo=gtk&logoColor=white)
-![Cyber Security](https://img.shields.io/badge/Cyber-Security-%23333B4C?style=for-the-badge&logo=caddy&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-%231A2A40?style=for-the-badge&logo=ArchLinux&logoColor=white)
+![Cyber Security](https://img.shields.io/badge/Cyber-Security-%23333B4C?style=for-the-badge&logo=caddy&logoColor=white)
 
 Connect with Me and Let's Be Friend! 🤝
 
