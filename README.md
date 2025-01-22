@@ -37,7 +37,7 @@ Terminal  : Kitty + Fish 🐟
 Editor    : Neovim
 KB_Layout : Dvorak
 -----------------------------------
-Passion   : c}oding anything
+Passion   : coding anything
 Hobby     : learning everything
 ```
 
